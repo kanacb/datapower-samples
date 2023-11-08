@@ -1,1 +1,1 @@
-# datapower-samples
+# datapower-templates
