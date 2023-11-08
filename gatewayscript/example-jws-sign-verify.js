@@ -12,7 +12,7 @@ var plaintext = "verification succeed!";
 
 // Some useful API call examples are provided via "FYI HowTo: " comment blocks
 var keyKid2 = 'Alice2048RSA';
-var keyKid1 = 'Alice2048HSA';
+var keyKid1 = 'Alice2048HSAa';
 
 try {
   //--------------------------------------------------------------------------
