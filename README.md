@@ -1,4 +1,4 @@
-# Datapower Templates
+# Code Generator for Datapower Gateway API
 CodeBridge can be used to generate the code for IBM DataPower Gateway API js scripts by providing a set of templates and configurations that can be used to generate the desired code. The templates can be customized to the specific needs of the user, and the configurations can be used to control the generation of the code.
 
 Here is a general overview of how CodeBridge can be used to generate the code for IBM DataPower Gateway API js scripts:
